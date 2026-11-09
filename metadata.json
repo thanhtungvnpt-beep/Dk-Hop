@@ -1,0 +1,6 @@
+{
+  "name": "Meeting Room Booking Pro",
+  "description": "Hệ thống đăng ký và điều phối phòng họp Room A với cơ chế ưu tiên P1/P2/P3 và kiểm soát xung đột",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
